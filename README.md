@@ -94,7 +94,3 @@ Never commit API keys or credentials to GitHub.
 Shivam Tripathi
 
 GitHub: [@Shivamtripathi78](https://github.com/Shivamtripathi78)
-
-## 📅 30-Day GitHub Project Challenge
-
-Day 6 of my 30-Day GitHub Project Challenge.
