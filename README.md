@@ -35,43 +35,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Shivamtripathi78/weather-application.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd weather-application
-```
-
-Install dependencies:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### Configure the API Key
-
-In PowerShell:
-
-```powershell
-$env:OPENWEATHER_API_KEY="YOUR_API_KEY_HERE"
-```
-
-Replace the placeholder with your actual API key.
-
-### Run the Application
-
-```bash
-python main.py
-```
-
-Enter a city name to view its current weather.
-
-## 🔒 Security
-
-The application reads the API key from an environment variable.
-
-Never commit API keys or credentials to GitHub.
 
 ## 🎯 Learning Outcomes
 
