@@ -29,13 +29,6 @@ A Python application that retrieves current weather information for cities using
 - Python 3
 - An OpenWeather API key
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Shivamtripathi78/weather-application.git
-
 ## 🎯 Learning Outcomes
 
 - Calling REST APIs
